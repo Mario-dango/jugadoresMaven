@@ -1,4 +1,4 @@
-package egg;
+package egg.modelos;
 
 public class Equipo {
 
